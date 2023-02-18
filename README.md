@@ -13,4 +13,4 @@ Sometimes when this app is launched the rectangle is shown in just green:
 
 Somtimes when the app is launched it animates between green and blue:
 
-https://user-images.githubusercontent.com/645812/219856794-224ca456-f9f0-4a2e-8626-51aad433f9e0.mov
+https://user-images.githubusercontent.com/645812/219857124-8294c27b-5371-4888-80dd-ca2998016bbd.mov
